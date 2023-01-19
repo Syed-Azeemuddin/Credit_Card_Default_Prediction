@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/Syed%20Azeemuddin/Practise%20Pro/ineuron/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: scikit_learn_experiment
